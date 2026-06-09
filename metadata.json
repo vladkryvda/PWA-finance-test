@@ -1,0 +1,6 @@
+{
+  "name": "Finance Intelligence Dashboard",
+  "description": "A premium, offline-first personal finance tracking PWA with automated insights and natural language transaction entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
